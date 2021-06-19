@@ -20,10 +20,10 @@ function setup(){
 
     //create two more blocks i.e. block3 and block4 here
 
-    block3 = createSprite(500,580,360,30);
+    block3 = createSprite(500,580,190,30);
     block13.shapeColor = "red";
 
-    block4 = createSprite(700,580,200,30);
+    block4 = createSprite(700,580,180,30);
     block4.shapeColor = "green";
 
     ball = createSprite(random(20,750),100, 40,40);
